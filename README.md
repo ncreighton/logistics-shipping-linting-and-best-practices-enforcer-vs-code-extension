@@ -1,0 +1,2 @@
+# logistics-shipping-linting-and-best-practices-enforcer-vs-code-extension
+A VS Code extension that lints and enforces best practices for logistics and shipping code, including tracking numbers, address validation, carrier APIs, and documentation. It reduces errors by flagging invalid formats, deprecated integrations, and security vulnerabilities in real-time. Ideal for developers working with shipping libraries, e-commer
